@@ -19,7 +19,7 @@ The *Digital Clock* is a stylish and minimalistic web application that displays 
 Simply open the `index.html` file in a web browser, and the Digital Clock will start displaying the current time.
 
 ## Live Demo 🌐
-Check out the live demo: [Digital Clock Demo](#)
+Check out the live demo: [Digital Clock Demo](https://digital-clock-livid-nu.vercel.app)
 
 ## Installation 🛠️
 1. Clone the repository: `git clone https://github.com/Eraycann/Digital-Clock`
